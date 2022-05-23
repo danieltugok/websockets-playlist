@@ -1,5 +1,16 @@
-TUTORIAL
-https://www.youtube.com/c/TheNetNinja/search
+Chat app using socket.io
 
-## nodemon index
+## Run the project
+    npm install
+    npm start
+    // or
+    nodemon index
+
+## Technologies
+
+- node
+- express
+- nodemon
+- socket io
+- 
 
